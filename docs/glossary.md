@@ -1,0 +1,22 @@
+# Glossário da Metodologia MAGAR
+
+- **Alocação de Ativos**: Estratégia de distribuição patrimonial em classes descorrelacionadas (ações, renda fixa, ouro, FIIs, exterior) com pesos pré-definidos para maximizar o retorno e minimizar o risco de ruína.
+- **Antiações**: Ativos que apresentam correlação negativa ou nula com o mercado de ações (como Dólar e Ouro). Servem como amortecedor de crises econômicas e aceleradores de rentabilidade no rebalanceamento.
+- **Barco Pirata**: Classificação metafórica de ativos que carregam risco desproporcional ao retorno, falta de governança ou armadilhas estruturais (ex: COEs, estatais sem proteção política, FIIs de agências bancárias, fundos de papel com risco de crédito opaco).
+- **BSM / MRP**: B3 Supervisão de Mercado e Mecanismo de Ressarcimento de Prejuízos. Garante até R$ 120 mil por ocorrência em caso de falha operacional, fraude ou execução indevida pela corretora.
+- **Cruzeiro**: Ativos e setores altamente perenes, previsíveis e resilientes a crises (ex: Energia Elétrica, Bancos sólidos, Saneamento, Galpões Logísticos).
+- **DARF 6015**: Documento de Arrecadação de Receitas Federais utilizado para recolhimento de ganho de capital em operações com Fundos Imobiliários (alíquota fixa de 20%).
+- **Duration**: Medida da sensibilidade do preço de um título de renda fixa às variações na taxa de juros do mercado. Quanto maior o prazo e menor o cupom intermediário, maior a oscilação do Preço Unitário (PU).
+- **Estate Tax (U.S.)**: Imposto sobre herança cobrado pelo governo dos EUA (IRS). Para investidores brasileiros não-residentes, incide sobre patrimônios acima de US$ 60.000 com alíquotas de até 40%.
+- **FGC**: Fundo Garantidor de Créditos. Protege investimentos elegíveis de renda fixa bancária (CDB, LCI, LCA) até o limite de R$ 250 mil por CPF e por instituição, com teto global de R$ 1 milhão a cada período de 4 anos.
+- **GLD**: SPDR Gold Trust, o maior ETF de ouro físico do mundo, negociado na NYSE em dólares. Utilizado no método para a fatia de ouro da MAGAR Internacional.
+- **IAU**: iShares Gold Trust, ETF de ouro físico gerido pela BlackRock com taxa de 0,25% a.a. Utilizado no método para a fatia de antiações da MAGAR Brasil.
+- **Japonização**: Fenômeno macroeconômico caracterizado por estagnação prolongada do PIB, inflação estagnada ou crônica e perda contínua de relevância da moeda doméstica frente a moedas fortes globais.
+- **Lancha**: Ativos de empresas ou fundos que aceleram fortemente em ciclos econômicos de alta, mas sofrem oscilações maiores em recessões (ex: Construção Civil, Shoppings, Varejo).
+- **Lei nº 14.754/2023**: Legislação brasileira que unificou a tributação de investimentos no exterior à alíquota de 15% na Declaração de Ajuste Anual (DAA), extinguiu a isenção de R$ 35 mil/mês e elevou a exigência de FIIs isentos para 100 cotistas.
+- **MAGAR**: Acrônimo da metodologia que representa os 5 pilares de investimento: **M**oeda, **A**ções, **G**old, **A**tivos Reais (FIIs) e **R**enda Internacional.
+- **Marcação a Mercado**: Mecanismo de precificação diária dos títulos de renda fixa negociados a mercado antes do vencimento. Quando as taxas de juros futuras caem, o valor de venda antecipada do título sobe.
+- **Rebalanceamento por Aporte**: Princípio de direcionar novos aportes e 100% dos proventos recebidos exclusivamente para a classe que estiver mais defasada em relação à meta percentual, sem a necessidade de realizar vendas de ativos.
+- **SIPC**: Securities Investor Protection Corporation. Entidade norte-americana que protege clientes de corretoras americanas registradas em até US$ 500.000 (sendo até US$ 250.000 em dinheiro) em casos de liquidação ou fraude da corretora.
+- **Teste do Travesseiro**: Autoavaliação comportamental que determina o percentual máximo do patrimônio que o investidor aceita ver oscilar na renda variável sem perder o sono em momentos de crise.
+- **VOO**: Vanguard S&P 500 ETF. Principal ETF utilizado para exposição ampla às 500 maiores empresas do mercado acionário global, com taxa de administração de 0,03% a.a.
